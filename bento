@@ -639,7 +639,7 @@ div.achieve-icon{
 }
 .profile-car .price .bonuses,
 .profile-root .sidebar .profile-nav li a .badge {
-    filter:brightness(1.05)
+    filter:brightness(1.05);
     color: var(--yellow) !important;
 }
 input[type="checkbox"] {
@@ -700,6 +700,7 @@ button,
     background-color: var(--skyblue) !important;
     color: var(--font-color) !important;
 }
+
 .col-xs-4 {
     width: 32.5%;
 }
