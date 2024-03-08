@@ -667,7 +667,6 @@ body > div.fade.modal2.in > div > div > div > div.modal2-body > ul > li > div > 
 }
 #profile-block.vocview-block .user-title .btn_fav,
 #profile-block.vocview-block .user-title .btn_play {
-    background-image: var(--adddic) !important;
 }
 button,
 #profile-prefs > form:nth-child(2) > div > div.col-xs-4 > div.avatar > div.avatar-controls > div {
