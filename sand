@@ -2843,22 +2843,9 @@ div.vectorTabs ul li {
 
 #typefocus.highlight {
     text-decoration: none !important;
-color:var(--afterfocus);
-animation-name:focus;
-    animation-fill-mode: forwards;
-animation-duration:0.3s;
-    
+color:var(--orange);
 }
-@keyframes focus {
-    from {
-   color:var(--afterfocus);
-    }
-    20%{
-    }
-    to {
-    color:var(--orange);
-    }
-}
+
 /* .highlight_error:before {
         content:'';
     max-width:3px;
