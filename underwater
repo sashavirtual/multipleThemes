@@ -112,7 +112,7 @@ div > div.rating > div.stats {
     --logoColor: white;
     --logoHover: #3bf4e7;
     --kg-pedia: url('https://i.imgur.com/D5SYPzs.png') !important;
-    --adddic: url('https://i.imgur.com/6yMyQHO.png') !important;
+    --adddic: url('https://i.imgur.com/LPMZ3sl.png') !important;
     --car1: url('https://i.imgur.com/KocESa8.png') !important; 
     --car2: url('https://i.imgur.com/Ns2MwQR.png') !important;
     --car3: url('https://i.imgur.com/uJAiiVg.png') !important;
@@ -3070,6 +3070,7 @@ color:var(--font-color) !important;
     color: var(--afterfocus);
     cursor: none;
 }
+
 img[src*="/img/smilies/acute.gif"] {background: url('https://i.imgur.com/1G1lwqS.gif') no-repeat; box-sizing: border-box !important; width: 27px !important; height: 24px !important; padding-left: 27px !important;}
 img[src*="/img/smilies/angry.gif"] {background: url('https://i.imgur.com/7EZu5kN.gif') no-repeat; box-sizing: border-box !important; width: 20px !important; height: 20px !important; padding-left: 20px !important;}
 img[src*="/img/smilies/angry2.gif"] {background: url('https://i.imgur.com/az8LGqF.gif') no-repeat; box-sizing: border-box !important; width: 20px !important; height: 20px !important; padding-left: 20px !important;}
