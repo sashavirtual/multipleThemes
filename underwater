@@ -701,7 +701,7 @@ div.achieve-icon{
 }
 .profile-car .price .bonuses,
 .profile-root .sidebar .profile-nav li a .badge {
-    filter:brightness(1.05)
+    filter:brightness(1.05);
     color: var(--yellow) !important;
 }
 input[type="checkbox"] {
@@ -1616,7 +1616,10 @@ body > div.fade.modal2.dlg-dailytask-window.in > div > div {
 .recent-game:hover {
     border:1px solid var(--white);
 }
-
+.not-enough-money {
+    color:black !important;
+    background-color:#ff6c6c !important;
+}
 #sw_rating,
 #sw_today,
 #sw_week,
@@ -3070,6 +3073,7 @@ color:var(--font-color) !important;
     color: var(--afterfocus);
     cursor: none;
 }
+
 
 img[src*="/img/smilies/acute.gif"] {background: url('https://i.imgur.com/1G1lwqS.gif') no-repeat; box-sizing: border-box !important; width: 27px !important; height: 24px !important; padding-left: 27px !important;}
 img[src*="/img/smilies/angry.gif"] {background: url('https://i.imgur.com/7EZu5kN.gif') no-repeat; box-sizing: border-box !important; width: 20px !important; height: 20px !important; padding-left: 20px !important;}
