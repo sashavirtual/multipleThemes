@@ -106,8 +106,8 @@ div > div.rating > div.stats {
     --beforeFocus: #186f6582 !important;
     --graytimer: #B2533E !important;
     --speedPanelGradient:radial-gradient(ellipse at 100% 100%, var(--dark-blue) 0%, var(--main-blue) 66%, var(--main-blue) 100%) !important;
-    --inviteNotification: #B2533E !important;
-    --xNotification:rgb(255, 242, 129) !important;
+    --xNotification:rgb(143, 255, 99) !important;
+    --topPopUp:rgb(99, 216, 255) !important;
     --topPopUp:rgb(255, 242, 129) !important;
     --inputtextError:#fcb351;
     --logoColor: white;
