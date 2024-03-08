@@ -111,7 +111,7 @@ div > div.rating > div.stats {
     --logoColor: white;
     --logoHover: #B2533E;
     --kg-pedia: url('https://i.imgur.com/D5SYPzs.png') !important;
-    --adddic: url('https://i.imgur.com/6yMyQHO.png') !important;
+    --adddic: url('https://i.imgur.com/JJBGsPl.png') !important;
     --car1: url('https://i.imgur.com/otJzsWo.png') !important; 
 /*     четверка */
     --car2: url('https://i.imgur.com/MM8N5W2.png') !important;
@@ -177,7 +177,7 @@ div > div.rating > div.stats {
     --clock: url('https://i.imgur.com/9aE1qlf.png') !important;
     --exclamation: url('https://i.imgur.com/Ar5GKnK.png') !important;
     --fontWeight: 400 !important;
-    --creategame: url('https://i.imgur.com/EcvgWlN.png') !important;
+    --creategame: url('https://i.imgur.com/pNubEmo.png') !important;
         }
 div{
     color:var(--font-color) !important;
@@ -2953,11 +2953,6 @@ animation-duration:0.3s;
 #afterfocus {
     color: var(--afterfocus);
     cursor: none;
-}
-/* гость мод */
-#afterfocus,
-#beforefocus,
-#typefocus {
 }
 
 img[src*="/img/smilies/acute.gif"] {background: url('https://i.imgur.com/1G1lwqS.gif') no-repeat; box-sizing: border-box !important; width: 27px !important; height: 24px !important; padding-left: 27px !important;}
