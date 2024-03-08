@@ -614,7 +614,7 @@ div.achieve-icon{
 }
 .profile-car .price .bonuses,
 .profile-root .sidebar .profile-nav li a .badge {
-    filter:brightness(1.05)
+    filter:brightness(1.05);
     color: var(--yellow) !important;
 }
 input[type="checkbox"] {
@@ -1296,6 +1296,11 @@ div.delresult > a::after{
 content:'❌';
     background:var(--main-blue) !important;
     position:relative;
+}
+.profile-car .price .bonuses.not-enough-money,
+.not-enough-money {
+    color:#fff !important;
+    background-color:#ff6c6c !important;
 }
 #top_today > table > tbody > tr > *,
 #discussing_recent > ul > li > span.username > a,
@@ -2946,6 +2951,7 @@ color:#be7f00;
     color: var(--afterfocus);
     cursor: none;
 }
+
 
 img[src*="/img/smilies/acute.gif"] {background: url('https://i.imgur.com/1G1lwqS.gif') no-repeat; box-sizing: border-box !important; width: 27px !important; height: 24px !important; padding-left: 27px !important;}
 img[src*="/img/smilies/angry.gif"] {background: url('https://i.imgur.com/7EZu5kN.gif') no-repeat; box-sizing: border-box !important; width: 20px !important; height: 20px !important; padding-left: 20px !important;}
