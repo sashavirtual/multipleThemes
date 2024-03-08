@@ -115,7 +115,7 @@ div > div.rating > div.stats {
     --logoColor: white;
     --logoHover: #6E7DA2;
     --kg-pedia: url('https://i.imgur.com/D5SYPzs.png') !important;
-    --adddic: url('https://i.imgur.com/6yMyQHO.png') !important;
+    --adddic: url('https://i.imgur.com/9r4jWH8.png') !important;
     --car1: url('https://i.imgur.com/HrqunLn.png') !important; 
 /*     четверка */
     --car2: url('https://i.imgur.com/ob0mKPS.png') !important;
