@@ -610,7 +610,7 @@ div.achieve-icon{
 }
 .profile-car .price .bonuses,
 .profile-root .sidebar .profile-nav li a .badge {
-    filter:brightness(1.05)
+    filter:brightness(1.05);
     color: var(--yellow) !important;
 }
 input[type="checkbox"] {
@@ -912,6 +912,11 @@ input::placeholder,
 }
 tbody > tr > td.messages > div > div > div > p > span.username {
 /*     background-color: rgb(255, 255, 255) !important; */
+}
+.profile-car .price .bonuses.not-enough-money,
+.not-enough-money {
+    color:#fff !important;
+    background-color:#ff6c6c !important;
 }
 .alert-warning {
     background-color:var(--yellow) !important;
