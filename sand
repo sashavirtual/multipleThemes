@@ -3,6 +3,7 @@
 
 #speedpanel #speed-label {
     font-family: monospace;
+    color:white !important;
 }
 
 #userpanel-scores:before{
@@ -27,6 +28,7 @@ content:'';
 }
 #speedpanel #errors-label {
     font-family: monospace;
+    color:white !important;
 }
 #players > div.player.you.ng-scope > table > tbody > tr > td.name > div > table > tbody > tr > td > div > a {
     font-weight: 700 !important;
