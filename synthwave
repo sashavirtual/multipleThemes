@@ -3076,8 +3076,6 @@ color:var(--highlight) !important;
     color: var(--afterfocus);
     cursor: none;
 }
-
-
 img[src*="/img/smilies/acute.gif"] {background: url('https://i.imgur.com/1G1lwqS.gif') no-repeat; box-sizing: border-box !important; width: 27px !important; height: 24px !important; padding-left: 27px !important;}
 img[src*="/img/smilies/angry.gif"] {background: url('https://i.imgur.com/7EZu5kN.gif') no-repeat; box-sizing: border-box !important; width: 20px !important; height: 20px !important; padding-left: 20px !important;}
 img[src*="/img/smilies/angry2.gif"] {background: url('https://i.imgur.com/az8LGqF.gif') no-repeat; box-sizing: border-box !important; width: 20px !important; height: 20px !important; padding-left: 20px !important;}
