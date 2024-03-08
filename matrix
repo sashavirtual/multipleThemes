@@ -613,7 +613,7 @@ div.achieve-icon{
 }
 .profile-car .price .bonuses,
 .profile-root .sidebar .profile-nav li a .badge {
-    filter:brightness(1.05)
+    filter:brightness(1.05);
     color: var(--yellow) !important;
 }
 input[type="checkbox"] {
@@ -683,7 +683,10 @@ button,
     color: rgb(0, 163, 27) !important;
     font-weight: 1000;
 }
-
+.profile-car .price .bonuses.not-enough-money {
+    color:black !important;
+    background-color:#ff6c6c;
+}
 #content > div > div > div > div > div:nth-child(4) > div.sidebar.ng-scope > ul > li > a,
 .profile-edit-bio form,
 #premium_abra label {
