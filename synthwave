@@ -606,6 +606,12 @@ a.rang8,
 a.rang8:visited {
     color: rgb(129, 203, 255) !important;
 }
+.rang9,
+a.rang9,
+a.rang9:visited {
+    color: rgb(255, 255, 255) !important;
+    text-shadow:-1px 1px 2px white;
+}
 div.delresult > a{
     color:var(--main-blue) !important;
 }
