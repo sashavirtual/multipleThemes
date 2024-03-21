@@ -3051,7 +3051,6 @@ color:var(--highlight) !important;
     /*     width: 920px !important; */
     box-shadow: none !important;
     color: var(--font-color) !important;
-    font-size: 25px;
     transition: 0 !important;
 }
 
