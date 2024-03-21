@@ -3018,7 +3018,6 @@ color:var(--highlight) !important;
     color: var(--black);
     /* color: white !important; */
     /* transition:0.1s; */
-    font-weight: 1000;
 }
 
 #typeblock {
