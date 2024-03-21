@@ -1216,6 +1216,10 @@ body > div.fade.modal2.in > div > div,
 #posts-list .post-container .text .modified {
     color: var(--font-color) !important;
 }
+.history-popup{
+    background-color:var(--skyblue) !important;
+    box-shadow:var(--shadowbox);
+}
 .rc-anchor-light {
     background: var(--black) !important;
 }
