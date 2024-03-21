@@ -1214,7 +1214,10 @@ body > div.fade.modal2.in > div > div,
     border: 20px solid var(--light-blue) !important;
     border-radius: 10px;
 }
-
+.history-popup{
+    background-color:var(--skyblue) !important;
+    box-shadow:var(--shadowbox);
+}
 
 #content > div > div > div > div > div:nth-child(4) > div.profile-content.ng-scope > div > div.profile-stats-overview > div > div > div:nth-child(1) > div.col-xs-4 > div > h4 {
     color: var(--font-color);
