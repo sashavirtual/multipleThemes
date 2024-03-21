@@ -1214,6 +1214,10 @@ body > div.fade.modal2.in > div > div,
     background-color: var(--white) !important;
     color: var(--dark-blue) !important;
 }
+.history-popup{
+    background-color:var(--skyblue) !important;
+    box-shadow:var(--shadowbox);
+}
 .profile-stats .profile-stats-details .top-stats .counter div,
 .gametype-voc,
 #book > tbody > tr > td > div:nth-child(1),
