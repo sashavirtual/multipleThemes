@@ -202,6 +202,8 @@ select{
 }
 .player .rating .rating_gained {
     background: var(--rating-back);
+    color:black;
+    font-weight:1000;
 }
 body,
 div,
