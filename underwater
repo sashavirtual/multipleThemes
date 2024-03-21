@@ -107,7 +107,7 @@ div > div.rating > div.stats {
     --inviteNotification: #B2533E !important;
     --xNotification:rgb(255, 242, 129) !important;
     --topPopUp:rgb(255, 242, 129) !important;
-    --inputtextError:#ff707b;
+    --inputtextError:#99333b;
     --logoColor: white;
     --logoHover: #3bf4e7;
     --kg-pedia: url('https://i.imgur.com/D5SYPzs.png') !important;
@@ -3010,7 +3010,6 @@ color:var(--font-color) !important;
     color: var(--black);
     /* color: white !important; */
     /* transition:0.1s; */
-    font-weight: 1000;
 }
 
 #typeblock {
