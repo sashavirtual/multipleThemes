@@ -1769,7 +1769,6 @@ border: 1px solid #05f60e !important
     color: var(--font-color) !important;
     font-size: 25px;
     transition: none !important;
-    font-weight: 1000 !important;
 }
 
 
