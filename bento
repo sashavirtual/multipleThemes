@@ -2891,7 +2891,6 @@ color:#ff7a90;
     color: var(--black);
     /* color: white !important; */
     /* transition:0.1s; */
-    font-weight: 1000;
 }
 
 #typeblock {
