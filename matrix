@@ -2990,7 +2990,6 @@ color:#00a519;
     color: black !important;
     /* color: white !important; */
     /* transition:0.1s; */
-    font-weight: 1000;
 }
 
 #typeblock {
