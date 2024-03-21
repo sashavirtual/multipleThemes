@@ -1195,7 +1195,10 @@ element.style {
     background-image: var(--trophy1);
     transform: scale(1.3);
 }
-
+.history-popup{
+    background-color:var(--skyblue) !important;
+    box-shadow:var(--shadowbox);
+}
 #players,
 body,
 .player,
